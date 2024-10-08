@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Italo-devp 😁
 
  <div>
-   <a href="https://github.com/Italodevp">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Italo-devp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-devp&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/italo-devp">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italo-devp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-devp&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
