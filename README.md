@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao perfil do Italo Devp 😁
+## Bem-vindo(a) ao perfil do Italo-devp 😁
 
  <div>
-   <a href="https://github.com/Italo-devp">
+   <a href="https://github.com/Italodevp">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Italo-devp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-devp&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
